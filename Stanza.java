@@ -15,6 +15,5 @@ public class Stanza {
     private boolean visitata;
     private String immagine_mappa;
     private String descrizione;
-    private String niente;
 
 }
